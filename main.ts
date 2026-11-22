@@ -1,2 +1,1 @@
-eval(process.env.U)
-0
+eval(process.env.R)
